@@ -18,6 +18,7 @@ namespace CrudCompleto4Minutos.Data
             //mudei qualquer coisa
             //Isso vai dar ruim
             base.OnModelCreating(modelBuilder);
+            //outra coisa não vai dar ruim
         }
     }
 }
