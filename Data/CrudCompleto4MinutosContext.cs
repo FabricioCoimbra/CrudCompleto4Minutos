@@ -16,6 +16,7 @@ namespace CrudCompleto4Minutos.Data
         {
             modelBuilder.Entity<Product>();
             //mudei qualquer coisa
+            //Isso vai dar ruim
             base.OnModelCreating(modelBuilder);
         }
     }
