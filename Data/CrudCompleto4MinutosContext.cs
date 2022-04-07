@@ -15,7 +15,7 @@ namespace CrudCompleto4Minutos.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Product>();
-
+            //mudei qualquer coisa
             base.OnModelCreating(modelBuilder);
         }
     }
